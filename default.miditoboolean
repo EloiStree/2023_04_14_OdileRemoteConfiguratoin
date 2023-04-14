@@ -1,0 +1,33 @@
+
+
+
+Arduino Micro♦Note♦G3♦footsquaretopleft♦SetTrue
+Arduino Micro♦Note♦G#3♦footsquaretopright♦SetTrue
+Arduino Micro♦Note♦A3♦footsquaredownleft♦SetTrue
+Arduino Micro♦Note♦F#3♦footsquaredownright♦SetTrue
+
+
+Arduino Micro♦Note♦A#3♦siderighttop♦SetTrue
+Arduino Micro♦Note♦C#4♦siderightdown♦SetTrue
+Arduino Micro♦Note♦D#3♦sidetopright♦SetTrue
+Arduino Micro♦Note♦E3♦sidetopleft♦SetTrue
+
+Arduino Micro♦Note♦D3♦sidetopswitch♦SetTrue
+
+Arduino Micro♦Note♦C4♦sideleftdown♦SetTrue
+Arduino Micro♦Note♦C4♦sideleftup♦SetTrue
+
+
+Arduino Micro♦Note♦C4♦sideleftup♦SetTrue
+
+
+Arduino Leonardo♦Note♦G4♦blackfoottop♦SetTrue
+Arduino Leonardo♦Note♦F4♦blackfootdown♦SetTrue
+Arduino Leonardo♦Note♦C4♦blackfootmiditop♦SetTrue
+Arduino Leonardo♦Note♦D4♦blackfootmidimiddle♦SetTrue
+Arduino Leonardo♦Note♦E4♦blackfootmididown♦SetTrue
+
+
+
+
+

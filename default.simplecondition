@@ -1,0 +1,84 @@
+
+footsquaretopleft ♦ winkey:p:lbutton ♦ ☗TriggerOnTrue
+footsquaretopleft ♦ winkey:r:lbutton ♦ ☗TriggerOnFalse
+footsquaretopright ♦ winkey:p:a ♦ ☗TriggerOnTrue
+footsquaretopright ♦ winkey:r:a ♦ ☗TriggerOnFalse
+footsquaredownleft ♦ winkey:p:NP5 ♦ ☗TriggerOnTrue
+footsquaredownleft ♦ winkey:r:NP5 ♦ ☗TriggerOnFalse
+footsquaredownright ♦ winkey:p:F1 ♦ ☗TriggerOnTrue
+footsquaredownright ♦ winkey:r:F1 ♦ ☗TriggerOnFalse
+
+footsquaredownright ♦ winkey:s:F1 ♦ ☗TriggerOnTrue
+
+
+
+footsquaretopleft♦ winkey:s:b ♦ ☗TriggerOnTrue
+footsquaretopright♦ winkey:s:b ♦ ☗TriggerOnTrue
+footsquaredownleft♦ winkey:s:b ♦ ☗TriggerOnTrue
+footsquaredownright♦ winkey:s:b ♦ ☗TriggerOnTrue
+siderighttop♦ winkey:s:b ♦ ☗TriggerOnTrue
+siderightdown♦ winkey:s:b ♦ ☗TriggerOnTrue
+sidetopright♦ winkey:s:b ♦ ☗TriggerOnTrue
+sidetopleft♦ winkey:s:b ♦ ☗TriggerOnTrue
+sidetopswitch♦ winkey:s:b ♦ ☗TriggerOnTrue
+sideleftdown♦ winkey:s:b ♦ ☗TriggerOnTrue
+sideleftup♦ winkey:s:b ♦ ☗TriggerOnTrue
+sideleftup♦ winkey:s:b ♦ ☗TriggerOnTrue
+blackfoottop♦ winkey:s:b ♦ ☗TriggerOnTrue
+blackfootdown♦ winkey:s:b ♦ ☗TriggerOnTrue
+blackfootmiditop♦ winkey:s:b ♦ ☗TriggerOnTrue
+blackfootmidimiddle♦ winkey:s:b ♦ ☗TriggerOnTrue
+blackfootmididown♦ winkey:s:b ♦ ☗TriggerOnTrue
+//aoe4 +  xm↓1000 + xal ♦ winutility:savefocusas:bot2 ♦ ☗TriggerOnTrue
+//
+//wow +  xm↓1000 + xal ♦ winutility:savefocusas:bot2 ♦ ☗TriggerOnTrue
+//wow +  xm↓1000 +  xar ♦ winutility:savefocusas:bot3 ♦ ☗TriggerOnTrue
+//wow +  xm↓1000 + xad ♦ winutility:savefocusas:bot4 ♦ ☗TriggerOnTrue
+//wow +  xm↓1000 +  xau  ♦ winutility:savefocusas:bot5 ♦ ☗TriggerOnTrue
+//
+////FootPadLeft♦winutility:savefocusas:crash♦ ☗TriggerOnTrue
+////FootPadRight♦winutility:setfocuson:crash♦ ☗TriggerOnTrue
+//crash +  footsustain  ♦ jomi:a↓⌛250 a↑ ♦ ☗TriggerOnTrue
+//crash +  footsustain ♦ jomi:a↓ ⌛250 a↑ ♦ ☗TriggerOnFalse
+//crash +  FootPadrightdown  ♦jomi:space↓ ⌛400 space↑ ⌛40 space↓ ⌛400 space↑  e↓ ⌛250 e↑  ♦ ☗TriggerOnTrue
+//crash +  FootPadrightup  ♦jomi:space↓ ⌛40 space↑  e↓ ⌛250r e↑   ♦ ☗TriggerOnTrue
+//crash +  FootPadleftup ♦jomi: r↓ ⌛250 r↑  ♦ ☗TriggerOnTrue
+//crash +  footpadleftup  ♦jomi:r↓ ⌛250 r↑  ♦ ☗TriggerOnFalse
+//crash +  FootPadleftdown ♦jomi: r↓ ⌛250 r↑  ♦ ☗TriggerOnTrue
+//crash +  footpadleftdown  ♦jomi:r↓ ⌛250 r↑  ♦ ☗TriggerOnFalse
+//
+//
+//ftl +  footsustain  ♦ jomi:space↓⌛250 space↑ ♦ ☗TriggerOnTrue
+//ftl +  footsustain ♦ jomi: space↓ ⌛250 space↑ ♦ ☗TriggerOnFalse
+//ftl +  FootPadrightdown  ♦jomi:1↓ ⌛400 1↑   leftclick↓ ⌛250 leftclick↑  ♦ ☗TriggerOnTrue
+ftl +  FootPadrightup  ♦jomi:space↓ ⌛40 space↑    ♦ ☗TriggerOnTrue
+ftl +  FootPadrightup  ♦jomi:space↓ ⌛40 space↑    ♦ ☗TriggerOnFalse
+//ftl +  FootPadleftup ♦jomi: 3↓ ⌛250 3↑  leftclick↓ ⌛250 leftclick↑ ♦ ☗TriggerOnTrue
+//ftl +  FootPadleftdown ♦jomi: 4↓ ⌛250 4↑ leftclick↓ ⌛250 leftclick↑  ♦ ☗TriggerOnTrue
+//
+//ftl +  FootPadRight0  ♦jomi:1↓ ⌛4 1↑   leftclick↓ ⌛25 leftclick↑  ♦ ☗TriggerOnTrue
+//ftl +  FootPadRight1  ♦jomi:2↓ ⌛4 2↑    leftclick↓ ⌛25 leftclick↑  ♦ ☗TriggerOnTrue
+//ftl +  FootPadRight2 ♦jomi: 3↓ ⌛4 3↑  leftclick↓ ⌛20 leftclick↑ ♦ ☗TriggerOnTrue
+//ftl +  FootPadRight3 ♦jomi: 4↓ ⌛4 4↑ leftclick↓ ⌛25 leftclick↑  ♦ ☗TriggerOnTrue
+//
+////!xm + xal ♦ macro:bot:select2 ♦ ☗TriggerOnTrue
+////!xm + xar ♦ macro:bot:select3 ♦ ☗TriggerOnTrue
+////!xm + xad ♦ macro:bot:select4 ♦ ☗TriggerOnTrue
+////!xm + xau ♦ macro:bot:select5 ♦ ☗TriggerOnTrue
+//
+// // xsbl ♦macro:boxes:fivebotfollow ♦ ☗TriggerOnTrue
+// // xbr ♦macro:boxes:fivebotloadsoulattack♦ ☗TriggerOnTrue
+// // xbd ♦macro:boxes:fivebotquickattack♦ ☗TriggerOnTrue
+// // xbl ♦macro:boxes:fivebotloot♦ ☗TriggerOnTrue
+//  
+// // xsbr ♦macro:boxes:moveinline♦ ☗TriggerOnTrue
+//  //xbu ♦macro:boxes:fivebotinvokepet♦ ☗TriggerOnTrue
+// // xtr ♦macro:boxes:moveinpentagra♦ ☗TriggerOnTrue
+// // xs  ♦ macro:boxes:defaultfivebotposition♦ ☗TriggerOnTrue
+//
+
+
+lol +  FootPadLD ♦jomi: 1↓ ⌛4 1↑ leftclick↓ ⌛25 leftclick↑  ♦ ☗TriggerOnTrue
+lol +  FootPadLT ♦jomi: 2↓ ⌛4 2↑ leftclick↓ ⌛25 leftclick↑  ♦ ☗TriggerOnTrue
+lol +  FootPadRD ♦jomi: s↓ ⌛4 s↑ ♦ ☗TriggerOnTrue
+lol +  FootPadRT ♦jomi: 1↓ ⌛4 1↑ ♦ ☗TriggerOnTrue
